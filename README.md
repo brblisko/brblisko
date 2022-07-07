@@ -1,7 +1,6 @@
 ### Wellcome!
 
-![MeagerHardtofindAlbertosaurus-mobile](https://user-images.githubusercontent.com/72473507/177866688-8dceb091-68a1-4930-9637-e5b5554313b5.gif)
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+![MeagerHardtofindAlbertosaurus-size_restricted](https://user-images.githubusercontent.com/72473507/177867242-d50bdc10-25d6-403a-b140-68ba63bb78d1.gif)
 
 ![](https://komarev.com/ghpvc/?username=brblisko)
 
