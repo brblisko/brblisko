@@ -6,7 +6,7 @@
 
 - 📖 Bachelor's student at [FIT VUT](https://www.fit.vut.cz/.en)
 
-- 💼 Intern at [Solarwinds](https://www.solarwinds.com/)
+- 💼 Not working right now
 
 - 💬 Contact me via email [here](mailto:vesely.svk@gmail.com)
 
