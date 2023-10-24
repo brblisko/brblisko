@@ -6,7 +6,7 @@
 
 - 📖 Bachelor's student at [FIT VUT](https://www.fit.vut.cz/.en)
 
-- 💼 Not working right now
+- 💼 Working at [Honeywell](https://www.honeywell.com/us/en) as Software engineer
 
 - 💬 Contact me via email [here](mailto:vesely.svk@gmail.com)
 
