@@ -4,11 +4,13 @@
 
 **About me**
 
-- 📖 Bachelor's student at [FIT VUT](https://www.fit.vut.cz/.en)
+- 🎓 Master’s student at [MUNI FI](https://www.fi.muni.cz/index.html.en).
 
-- 💼 Working at [Honeywell](https://www.honeywell.com/us/en) as Software engineer
+- 📖 Bachelor’s graduate from [FIT VUT](https://www.fit.vut.cz/.en).
 
-- 💬 Contact me via email [here](mailto:vesely.svk@gmail.com)
+- 💼 Working as a Software Engineer at [Honeywell](https://www.honeywell.com/us/en).
+
+- 💬 Contact me via email [here](mailto:vesely.svk@gmail.com).
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brblisko&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="brblisko's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brblisko&layout=compact&theme=buefy&hide_border=true" /></a> |
